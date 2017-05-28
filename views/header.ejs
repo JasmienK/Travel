@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+	<head>
+		<title>TRAVEL NEWS</title>
+		<link rel="stylesheet" type="text/css" href="/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<nav>
+		  <% for (var i = 0; i < categorieen.length; i++) { %>
+		    <a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+		  <% } %>
+		</nav>
+		<h1><a href="/">TRAVEL NEWS</a></h1>

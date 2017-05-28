@@ -1,0 +1,45 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Take the kids to … Surf Snowdonia, Wales",
+            "id": 212,
+            "datum": "24/05/2017 | 18:45",
+            "categorieen": ["sport","outdoors"],
+            "samenvatting": "In a nutshell; An artificial, 300 metre-long wave lagoon in the Conwy valley, on the edge of Snowdonia national park.",
+            "body": "<p>A mechanical underwater “snowplough” generates a wave up and down the lagoon every 90 seconds. The bottom of the lagoon (formerly part of an aluminium processing plant) is contoured, creating a metre-high break for experienced surfers as well as ideal, knee-high waves for beginners. You can have surf lessons, or if you already have experience, simply hire a board and “hang 10”.</p>",
+            "afbeeldingl": "surfing.jpg",
+            "afbeeldings": "surfing.jpg"
+        },
+        {
+            "titel": "How to Combine Coffee & Your To-Do List in Stockholm",
+            "id": 210,
+            "datum": "27/05/2017 | 10:30",
+            "categorieen": ["city","food"],
+            "samenvatting": "Stockholm and it's interesting coffee places!",
+            "body": "<p> Did you know that in Stockholm you can get a cuppa and have your bike fixed at the same time? How convenient! Or perhaps you want to spruce up your home for spring with new houseplants? Instead of driving to a remote garden centre, finding yourself at the mercy of dubious gas station coffee on the way, why don’t you sit back and choose your plants while sipping on well-crafted cappuccino? We’ve found just the place for you.</p>",
+            "afbeeldingl": "coffee.jpg",
+            "afbeeldings": "coffee.jpg"
+        },
+        {
+            "titel": "Upstate NY Roadtrip w/ Chevy",
+            "id": 198,
+            "datum": "21/05/2017 | 06:06",
+            "categorieen": ["city","camping"],
+            "samenvatting": "New York through the eyes of travelers. Since a few months people have been traveling New York city. In this article you will understand why.",
+            "body": "<p>Last week we had the opportunity to partner with Chevy on a road trip to Upstate New York. We cruised up north with our playlist ready, and our windows down ready to enjoy the cool spring breeze. The built in wifi was perfect for the country roads when our phones had 'No Service'. We traveled through small towns enjoying the lush green of the tress and charm of little shops and markets. Some of our favorite features of the Chevy Cruze were the instant Bluetooth connectivity, impeccable gas mileage, the spacious leg room (after all we are pretty tall people), and how smooth this baby drove. Oh, and even though its a bit on the smaller side this beauty has some serious horsepower.First Stop: We made it to Beacon, NY where the waterfalls were beautiful and the people were charming. We spent a few days here enjoying all this town had to offer from its local fare, craft beer, and one of our favorite museums,Dia.Beacon. We stayed at this industrial chic hotel, The Roundhouse and had a relaxing time.Our next and last stop on this 5 day road trip was Hudson, NY. Up to this point we had only heard about Hudson and how we had to make a trip up here to experience the charm. We were blown away by the amount of furniture shops, restaurants, and charm that Hudson has to offer. We spent a bit of our time driving to nearby towns looking for scenic outlooks and even drove up to West Point to catch the sunset.</p>",
+            "afbeeldingl": "roadtrip.jpg",
+            "afbeeldings": "roadtrip2.jpg"
+        },
+        {
+            "titel": "On Vancouver Island",
+            "id": 198,
+            "datum": "22/05/2017 | 16:00",
+            "categorieen": ["outdoors","camping"],
+            "samenvatting": "On Vancouver Island we have dreamed up an ideal five-day vacation that combines photography, surf and outdoor adventure – shaped by a live-local travel itinerary and with planet conservation at the heart of the experience. We will surf pristine fall waves, photograph, hike, practice yoga and unwind in eco luxe lodges and yurts deep in the lush coastal rainforest on Vancouver Island’s west coast.",
+            "body": "<p> A wealth of wildlife awaits, including eagles, and the possibility of black bears, wolves and whales. The fall weather also brings great (yet accessible) surf. Based on your desired level of comfort, and how close you choose to get to nature each night, you can choose to stay in a yurt or luxury lodge, all moments outside Pacific Rim National Park. We will shoot alongside photographer and local legend, Jeremy Koreski, and the founders of Earth Missions and Allswell. Tiny Atlas’ founder and pro photographer, Emily Nathan will lead a daily workshop for photographers of all levels on how to plan, shoot, edit and share a photographic feature story. Laura Rubin, creator of AllSwell notebooks, will be on hand to provide tips and techniques to encourage creative expression in all forms, including the analog way – putting pen to paper. Not a surfer or experienced photographer yet? No worries! All you need is a love for the ocean and the arts, and an open mind.Daily programming will include surf, yoga, creativity and photography training with full freedom to explore the coast on your own timeline if you prefer.</p>",
+            "afbeeldingl": "vancouver.jpg",
+            "afbeeldings": "vancouver.jpg"
+        }
+    ]
+}
